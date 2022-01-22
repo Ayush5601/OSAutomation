@@ -2,3 +2,5 @@ A test commit for multiple github accounts on same machine
 
 Testing personal token
 
+checking global credintials working
+
